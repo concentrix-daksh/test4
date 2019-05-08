@@ -18,4 +18,9 @@ and more linux and shellscripting
 
 
 
+
 hi guys was yesterday
+
+
+all are practice git and more linix and shellscripting
+
