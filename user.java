@@ -15,3 +15,7 @@ please practice the git
 
 
 and more linux and shellscripting
+
+
+
+hi guys was yesterday
